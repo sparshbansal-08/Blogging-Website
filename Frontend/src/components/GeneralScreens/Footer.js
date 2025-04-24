@@ -8,6 +8,8 @@ const Footer = () => {
             </div>
             <div className="copyright">
                 <p className="copyright-blog">© 2025 Sparsh Bansal. All rights reserved.</p>
+
+                
                 
             </div>
         </div>
